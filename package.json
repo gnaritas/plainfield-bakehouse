@@ -1,0 +1,12 @@
+{
+  "name": "plainfield-bakehouse",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Plainfield Bakehouse — bakery/bagelry + used bookstore, downtown Plainfield IL (websites desk, t_6f7664fc)",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
